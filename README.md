@@ -1,1 +1,2 @@
-# Alien-Invasion-Game-in-Python
+THIS IS MY FIRST PROJECT
+ALIEN INVASION GAME
